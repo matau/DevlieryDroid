@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delivery Droid</string>
+		<string name="menu_activity">Where should we order from?</string>
+
+		<string-array name="restaurants">
+			<item>The Burger Place</item>
+			<item>Mick\'s Pizza</item>
+			<item>Four Buckets \'o Fruit</item>
+			<item>Sam\'s Sushi</item>
+		</string-array>	
+
+</resources>
